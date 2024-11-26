@@ -2,7 +2,7 @@
 
 # l2netmgr - Lineage 2 Network Manager
 
-This tool was developed to help administer the KatsuChronicles.org Lineage 2 project in the early 2000s.
+This tool was developed to help administer the katsuchronicles.org Lineage 2 project in the early 2000s.
 <br/>
 <br/>
 ## Repo ChangeLog:
