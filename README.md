@@ -3,33 +3,25 @@
 # l2netmgr - Lineage 2 Network Manager
 
 This tool was developed to help administer the KatsuChronicles.org Lineage 2 project in the early 2000s.
-
-
-
-
+<br/>
+<br/>
 ## Repo ChangeLog:
 
 2024-11-26 - Moved to GitHub from SourceForge. 
 
 2006-06-17 - Most recent activity.
-
-
-
-
-
+<br/>
+<br/>
+<br/>
 ## Additional Files:
 
 - ./web/: Project Web Page uploaded from private archive
-
-
-
-
-
+<br/>
+<br/>
+<br/>
 ## Original ReadMe.txt Contents:
-
-
-
-
+<br/>
+<br/>
 ### BUILDING
 
 **Windows**: A VS.Net (2003) project is provided.
