@@ -1,0 +1,49 @@
+$Id: README,v 1.1.1.1 2006/01/12 23:27:16 eric Exp $
+
+A C++ Socket Library, version 0.1
+
+This is a C++ library which provides a portable, platform-independant
+abstraction layer over sockets.  The code is divided into two implementation
+modules, the Unix implementation and the Win32 implementation.  Known
+working Unix-like systems are Solaris and Linux, though it should run well
+on most others.
+
+It attempts to follow the BSD sockets API where possible.  There is also
+a Dia UML diagram of the classes.
+
+Usage is fairly simple:
+
+am::socket::Socket *s = new am::socket::Socket(am::socket::tcp);
+
+try
+{
+	s->connect("localhost", 1234);
+	s->send("Hello, world!", 13);
+	s->close();
+	delete s;
+}
+catch (am::socket::SocketError e)
+{
+	std::cerr << e.msg << ": " << s->getErrorStr() << endl;
+}
+
+Two sample programs are also provided, client.cpp and server.cpp.
+
+One point of note are the negotiateEndianClient() and negotiateEndianServer()
+methods.  These will perform a test on the connection to detemine if
+byte-swapping needs to be performed, and if so, will be done inside of the
+templated send() and recv() methods.
+
+TCP and UDP are supported, as well as asyncronous communication.  Check
+the headers for other available options.  A select() wrapper is also
+provided, see select.hpp for documentation.
+
+If building on Unix, do not build the Win32 implementation module, and
+the same goes for the reverse.
+
+The code is released under a BSD license.  Do what you will, however if
+you make any useful changes/additions or discovery and problems, I would
+like to hear about it.
+
+Eric Enright
+eric.enright@gmail.com
