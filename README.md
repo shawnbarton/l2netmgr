@@ -12,13 +12,13 @@ This tool was developed to help administer the KatsuChronicles.org Lineage 2 pro
 2006-06-17 - Most recent activity.
 <br/>
 <br/>
-<br/>
+
 ## Additional Files:
 
 - ./web/: Project Web Page uploaded from private archive
 <br/>
 <br/>
-<br/>
+
 ## Original ReadMe.txt Contents:
 <br/>
 <br/>
