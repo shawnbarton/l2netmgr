@@ -6,10 +6,10 @@
 Original URL: https://sourceforge.net/projects/l2netmgr/
 
 
-# Original ReadMe.txt Contents:
+## Original ReadMe.txt Contents:
 
 
-## BUILDING
+### BUILDING
 
 **Windows**: A VS.Net (2003) project is provided.
 
@@ -19,7 +19,7 @@ Makefile and `sockets/Makefile` may need to be tuned for your system.
 First, run `gmake` in `sockets/` to build the socket library.  
 Next, run `make` in the source root to build `l2netmgr` itself.
 
-## CONFIGURATION
+### CONFIGURATION
 
 You must first configure `l2netmgr` by editing `l2netmgr.conf` (Windows GUI users can use the Options dialog).  
 Each service provider (`authd` and `cached`) has three options:
@@ -52,7 +52,7 @@ Arguments are embedded in the command string as `{x}` where `x` is the argument 
 For example, the command `"my {0} command {1} here {0}"`, executed as `"mycommand one two"`,  
 would be translated to `"my one command two here one"`.
 
-## USAGE
+### USAGE
 
 Upon connection to `l2netmgr`, you must authenticate yourself with:
 
@@ -70,7 +70,7 @@ When `help` is run with no arguments, it will display a list of supported comman
 When `help` is run with an argument of a supported command, it will display that command's help string.  
 A configuration file re-read can be forced by the `reload` command.
 
-## BUGS
+### BUGS
 
 None known :-)
 
