@@ -1,9 +1,0 @@
-setsocketlimit 1 "1	{0}" "setsocketlimit num"
-numconnected 0 "2" "numconnected" rawreturn
-validaccount 1 "3	{0}" "validaccount name"
-enablegm 0 "4	1" "enable gm mode"
-disablegm 0 "4	0" "disable gm mode"
-setgmip 1 "6	{0}" "setgmip ipaddr"
-enablefs 0 "8	1" "enable FreeServer"
-disablefs 0 "8	0" "disable FreeServer"
-checkpasswd 2 "9	{0}	{1}" "checkpasswd account passwd"
