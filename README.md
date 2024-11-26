@@ -19,7 +19,7 @@ This tool was developed to help administer the KatsuChronicles.org Lineage 2 pro
 <br/>
 
 ## Original ReadMe.txt Contents:
-<br/>
+
 ### BUILDING
 
 **Windows**: A VS.Net (2003) project is provided.
