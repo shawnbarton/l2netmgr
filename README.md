@@ -16,6 +16,7 @@ This tool was developed to help administer the katsuchronicles.org Lineage 2 pro
 ## Additional Files:
 
 - **/web/**: Project Web Page uploaded from private archive
+- **/sourceforge_cvs/**: A copy of the SourceForge CVS repo
 <br/>
 
 ## Original ReadMe.txt Contents:
