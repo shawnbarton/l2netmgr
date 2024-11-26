@@ -12,7 +12,7 @@
 
 ## Additional Files:
 
-./web/ Project Web Page uploaded from private archive
+- ./web/: Project Web Page uploaded from private archive
 
 
 
@@ -84,4 +84,5 @@ A configuration file re-read can be forced by the `reload` command.
 
 None known :-)
 
-<http://l2netmgr.sourceforge.net/>
+<https://l2netmgr.sourceforge.net/>
+<https://sourceforge.net/projects/l2netmgr/>
