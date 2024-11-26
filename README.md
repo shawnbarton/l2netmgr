@@ -5,11 +5,15 @@
 This tool was developed to help administer the KatsuChronicles.org Lineage 2 project in the early 2000s.
 
 
+
+
 ## Repo ChangeLog:
 
 2024-11-26 - Moved to GitHub from SourceForge. 
 
 2006-06-17 - Most recent activity.
+
+
 
 
 
@@ -19,7 +23,11 @@ This tool was developed to help administer the KatsuChronicles.org Lineage 2 pro
 
 
 
+
+
 ## Original ReadMe.txt Contents:
+
+
 
 
 ### BUILDING
