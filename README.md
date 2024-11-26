@@ -17,7 +17,6 @@ This tool was developed to help administer the KatsuChronicles.org Lineage 2 pro
 
 - ./web/: Project Web Page uploaded from private archive
 <br/>
-<br/>
 
 ## Original ReadMe.txt Contents:
 <br/>
