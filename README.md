@@ -1,3 +1,5 @@
+![l2netmgr logo](./web/logo.jpg)
+
 # l2netmgr - Lineage 2 Network Manager
 
 2024-11-26 - Moved to GitHub from SourceForge. 
