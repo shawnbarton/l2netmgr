@@ -2,11 +2,17 @@
 
 # l2netmgr - Lineage 2 Network Manager
 
+## Repo ChangeLog:
+
 2024-11-26 - Moved to GitHub from SourceForge. 
 
 2006-06-17 - Most recent activity.
 
-Original URL: https://sourceforge.net/projects/l2netmgr/
+
+
+## Additional Files:
+
+./web/ Project Web Page uploaded from private archive
 
 
 
